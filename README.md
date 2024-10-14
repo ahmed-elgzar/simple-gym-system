@@ -18,7 +18,7 @@ This project is a Node.js application for managing a gym system. It includes mod
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ahmed-elgzar/simple-gym-system.git
     cd simple-gym-system
     ```
 
